@@ -1,5 +1,9 @@
 # Recruiting Participants 
 
+### Before we can write our script, we need to identify the participants for our test. 
+
+
+#### Types of Users 
 1. **Hallway Testing:** Grab anyone who is unfamiliar with the application or website you're testing. These can be co-workers, friends, family or folks at Starbucks.  Hallway testing works well for general purpose websites or apps and when you're looking to uncover the more obvious problems with the interactions (problems, of course, always seem obvious after you find them).  
 Don't rely too heavily on this method, especially when the design is more refined or users have specialized skills. When users don't have an interest in a product or service they will be happy to give you an opinion on matters but relying on them may generate false positive and miss issues actual users will encounter.
 
