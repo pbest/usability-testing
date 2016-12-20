@@ -1,5 +1,7 @@
 # Usability testing
+*What do you need: 1-2 weeks, a specific feauture or process, someone to lead the test & analyze results, ~5 participants or subjects*
 
+## What is a usability test?
 Usability testing refers to evaluating a product or service by testing it with representative users. Typically, during a test, participants will try to complete typical tasks while observers watch, listen and takes notes.  The goal is to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product.
 
 To run an effective usability test, you need to develop a solid test plan, recruit participants , and then analyze and report your findings.
