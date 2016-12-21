@@ -71,7 +71,9 @@ You can also try working with the customer support department and asking partici
 Make sure to record notes from your session immediately after its complete.  We reccomend using 1 consistent document that is bulleted by subject.  This gives you one easy place to dump all your thoughts and insights for further analysis once all sessions are complete.  Make sure you record everything
 
 [[Back to top]](#how-to-conduct-a-usability-test)
+
 # (6) Identify key insights & next steps
+Don’t trust your memory; rely on your results summary that you created as you went through the test.  
 [[Back to top]](#how-to-conduct-a-usability-test)
 
 
