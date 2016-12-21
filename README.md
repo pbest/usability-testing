@@ -9,10 +9,10 @@ To run an effective usability test, you need to develop a solid test plan, recru
 ## How to conduct a usability test 
 1. [Define test](#1-define-test)
 2. [Identify subjects / Recruit participants](#2-recruit-participants)
-3. [Write questions](https://github.com/pbest/usability-testing/tree/master#3-write-questions)
-4. [Execute test](https://github.com/pbest/usability-testing/tree/master#4-execute-test)
-5. [Summarize results](https://github.com/pbest/usability-testing/tree/master#5-summarize-results)
-6. [Identify key insights & next steps](https://github.com/pbest/usability-testing/tree/master#6-identify-key-insights--next-steps)
+3. [Write questions](#3-write-questions)
+4. [Execute test](#4-execute-test)
+5. [Summarize results](#5-summarize-results)
+6. [Identify key insights & next steps](#6-identify-key-insights--next-steps)
 
 <hr>
 
