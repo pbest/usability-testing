@@ -16,8 +16,8 @@ To run an effective usability test, you need to develop a solid test plan, recru
 
 <hr>
 
-# 1. Define test  
-# 2. Recruit participants
+# (1) Define test  
+# (2) Recruit participants
 #### Types of Users 
 1. **Hallway Testing:** Grab anyone who is unfamiliar with the application or website you're testing. These can be co-workers, friends, family or folks at Starbucks.  Hallway testing works well for general purpose websites or apps and when you're looking to uncover the more obvious problems with the interactions (problems, of course, always seem obvious after you find them).  
 Don't rely too heavily on this method, especially when the design is more refined or users have specialized skills. When users don't have an interest in a product or service they will be happy to give you an opinion on matters but relying on them may generate false positive and miss issues actual users will encounter.
@@ -27,14 +27,14 @@ You can also try working with the customer support department and asking partici
 
 3. **Usertesting.com:** The popular website testing service Usertesting.com not only delivers audio and video of users using a website or mobile app, it also has a large panel of users. Usertesting.com allows you to recruit based on age, gender and geography. You can also ask participants to self-select by asking them only to participate if they've used a certain website, own a particular product, have health insurance, or have a 401k account, among other things. While it's not a solution for when you need hundreds of responses or very specific recruiting criteria, getting a source of users and a 15-20 minute usability testing for under $40 is often very effective.
 
-# 3. Write questions
+# (3) Write questions
 1. Create five tasks you want the user to perform. The task should require at least six to nine clicks to complete the task. The tasks could be signing into the system or uploading photos and setting permissions.
 2. Write scenarios for each task. You should explain the task without telling the user what to do. An example would be, "You were at a family picnic where you took photos of your nephews and nieces. You want to share those photos with your family on the Internet on Flickr. Where would you go to sign in, upload those photos, and set the preferences so only your family can view them?"
 3. List follow-up questions you might want to add.
 4. The magic of usability tests are the answers you get outside of the scenarios. So you might want to come up with additional questions within the screens you are testing.
 
-# 4. Execute test
-# 5. Summarize Results
-# 6. Identify key insights & next steps
+# (4) Execute test
+# (5) Summarize Results
+# (6) Identify key insights & next steps
 
 
