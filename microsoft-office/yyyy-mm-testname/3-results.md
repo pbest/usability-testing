@@ -1,4 +1,0 @@
-1. Create five tasks you want the user to perform. The task should require at least six to nine clicks to complete the task. The tasks could be signing into the system or uploading photos and setting permissions.
-2. Write scenarios for each task. You should explain the task without telling the user what to do. An example would be, "You were at a family picnic where you took photos of your nephews and nieces. You want to share those photos with your family on the Internet on Flickr. Where would you go to sign in, upload those photos, and set the preferences so only your family can view them?"
-3. List follow-up questions you might want to add.
-4. The magic of usability tests are the answers you get outside of the scenarios. So you might want to come up with additional questions within the screens you are testing.
