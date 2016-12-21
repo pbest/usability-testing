@@ -25,9 +25,9 @@ Before you can begin to write questions or recruit for your test, you need to un
 
 * **Business Case –** Why are we doing this test? What are the benefits? What are the risks of not testing? Its important to understand the significance of our objectives.  We need to be able to communicate to stakeholders the reason for commiting to this specific test 
 
-* **User Demographics –** What type of user is this study focusing on?  How many users? What are constraints needed on age, gender, location, device usage, etc
+* **User Demographics –** What type of user is this study focusing on?  How many users? What are constraints needed on `age`, `gender`, `location`, `device usage`, etc
 
-* **Test Method & Tools –** How is this test going to be executed?  Usertesting.com?  In-person with recording via quicktime? Remote via uberconference with quicktime recording? Etc
+* **Test Method & Tools –** How is this test going to be executed?  `Usertesting.com`?  `In-person with recording via quicktime`? `Remote via uberconference with quicktime recording`? Etc
 
 [[Back to top]](#how-to-conduct-a-usability-test)
 # (2) Recruit participants
