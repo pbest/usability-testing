@@ -7,9 +7,9 @@ Usability testing refers to evaluating a product or service by testing it with r
 To run an effective usability test, you need to develop a solid test plan, recruit participants , and then analyze and report your findings.
 
 ## How to conduct a usability test 
-1. [Define test objectives]()
+1. [Define test]()
 2. [Identify subjects / Recruit participants](https://github.com/pbest/usability-testing/blob/master/2--recruit-participants.md)
-3. [Write script]()
+3. [Write questions]()
 4. [Execute test]()
 5. [Summarize results]()
 6. [Identify key insights & next steps]()
