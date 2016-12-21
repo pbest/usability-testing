@@ -51,8 +51,25 @@ You can also try working with the customer support department and asking partici
 [[Back to top]](#how-to-conduct-a-usability-test)
 
 # (4) Execute test
+
+* Practice. 
+* Check all the equipment. 
+* Make the space comfortable. 
+* Prep with your partner, if you have one.
+* Friendly Introductions and housekeeping/small talk.
+* Be considerate.
+* Start the recording. (No seriously, start it)
+* Don’t demo the product. 
+* Let the user do most of the talking. 
+* When in doubt, repeat it back.
+* Leave time for their questions.
+* Record notes on the session
+
 [[Back to top]](#how-to-conduct-a-usability-test)
+
 # (5) Summarize Results
+Make sure to record notes from your session immediately after its complete.  We reccomend using 1 consistent document that is bulleted by subject.  This gives you one easy place to dump all your thoughts and insights for further analysis once all sessions are complete.  Make sure you record everything
+
 [[Back to top]](#how-to-conduct-a-usability-test)
 # (6) Identify key insights & next steps
 [[Back to top]](#how-to-conduct-a-usability-test)
