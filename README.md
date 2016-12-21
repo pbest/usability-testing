@@ -19,7 +19,7 @@ To run an effective usability test, you need to develop a solid test plan, recru
 Before you can begin to write questions or recruit for your test, you need to understand what you're studying and why.  The best way to do this is to define the following items:
 * **Feature/Process –** What is the 1 thing you're evaluating?  This needs to be a specific feature or flow; eg `user onboarding`, `homepage`, `account management`, etc
 
-* **Product –**  Define how you’re delivering the “thing” you’re studying.  You should test 1 product at a time.  eg -- `mobile site`, `inVision prototype`, `desktop production`, `static mock-up`, etc
+* **Product –**  Define how you’ll deliver the “thing” you’re studying to the participants.  You should test 1 product at a time.  eg -- `mobile site`, `inVision prototype`, `desktop production`, `static mock-up`, etc
 
 * **Test Objectives –** Define a specific & clear set of goals for the test.  Ask yourself: What am I trying to learn?  eg -- `Can users navigate to their account dashboard?` or `Do users understand context x on homepage?`
 
