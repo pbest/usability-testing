@@ -14,6 +14,8 @@ To run an effective usability test, you need to develop a solid test plan, recru
 5. [Summarize results]()
 6. [Identify key insights & next steps]()
 
+<hr>
+
 # 1. Define test  
 # 2. Recruit participants
 #### Types of Users 
